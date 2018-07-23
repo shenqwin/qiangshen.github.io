@@ -11,7 +11,7 @@ In this project, we design an affine abstraction method to over-approximate the 
 ~~~
 
 
-== Fault-Tolerant Control for Spacecraft Attitude Control System
+== Fault-Tolerant Control for Attitude Control System
 
 In safety-critical systems such as spacecraft and aircraft, reliability is particularly important as a minor fault in such systems can result in signicant performance degradation or even instability. The attitude control subsystem of a 3-axis stabilized spacecraft is of great importance in many space missions, and the life of attitude control components essentially decides the operational life of a spacecraft. Its degradation can signicantly disrupt mission performance, and its failure is fatal to the spacecraft. \n
 This project aims to enhance the reliability and reduce the critical failure of spacecraft from the model-based fault-tolerant control (FTC) system design perspective. Generally, the available FTC approaches can be classied into two categories: active FTC and passive FTC. In this project, both active and passive FTC approaches are developed for attitude control systems of spacecraft to improve reliability and safety while achieving fast and high-precision attitude maneuver in the presence of external disturbances, inertia uncertainties, and actuator saturation constraints. 
